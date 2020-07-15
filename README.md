@@ -1,11 +1,11 @@
 # shop
 
-## Project setup
+## Установка пакетов
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Запуск db.json, затем во втором терминале run serve
 ```
 json-server --watch db.json
 ```
